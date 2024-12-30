@@ -1,0 +1,4 @@
+
+#files not to push
+/node_modules
+/.env
